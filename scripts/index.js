@@ -2,7 +2,7 @@
 const selector = document.getElementById("mensaje");
 
 /* escribir dentro de esa etiqueta con JS */
-selector.innerHTML = "CONEXIÓN EXITOSA ENTRE HTML Y JS";
+selector.innerHTML = "CONEXIÓN EXITOSA ENTRE HTML Y JS ...";
 
 const nombre = prompt("Ingresa tu nombre: ");   /*  MUESTRA UNA VENTANA */
 
